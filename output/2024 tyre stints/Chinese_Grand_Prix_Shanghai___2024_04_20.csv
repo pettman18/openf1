@@ -1,0 +1,82 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Chinese Grand Prix (Shanghai) - 2024-04-20,Alexander ALBON,23,Williams,1,MEDIUM,1.0,19.0,19.0,6
+Chinese Grand Prix (Shanghai) - 2024-04-20,Alexander ALBON,23,Williams,1,MEDIUM,1.0,9.0,9.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Alexander ALBON,23,Williams,2,MEDIUM,10.0,23.0,14.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Alexander ALBON,23,Williams,3,HARD,24.0,56.0,33.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,19.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,17.0,17.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Carlos SAINZ,55,Ferrari,2,HARD,18.0,56.0,39.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,19.0,19.0,4
+Chinese Grand Prix (Shanghai) - 2024-04-20,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,21.0,21.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Charles LECLERC,16,Ferrari,2,HARD,22.0,56.0,35.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Daniel RICCIARDO,3,RB,1,MEDIUM,1.0,19.0,19.0,3
+Chinese Grand Prix (Shanghai) - 2024-04-20,Daniel RICCIARDO,3,RB,1,MEDIUM,1.0,14.0,14.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Daniel RICCIARDO,3,RB,2,MEDIUM,15.0,33.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Esteban OCON,31,Alpine,1,MEDIUM,1.0,19.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Esteban OCON,31,Alpine,1,MEDIUM,1.0,9.0,9.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Esteban OCON,31,Alpine,2,HARD,10.0,23.0,14.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Esteban OCON,31,Alpine,3,HARD,24.0,56.0,33.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,16.0,16.0,3
+Chinese Grand Prix (Shanghai) - 2024-04-20,Fernando ALONSO,14,Aston Martin,2,MEDIUM,17.0,17.0,1.0,6
+Chinese Grand Prix (Shanghai) - 2024-04-20,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,11.0,11.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Fernando ALONSO,14,Aston Martin,2,HARD,12.0,23.0,12.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Fernando ALONSO,14,Aston Martin,3,SOFT,24.0,43.0,20.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Fernando ALONSO,14,Aston Martin,4,MEDIUM,44.0,56.0,13.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,George RUSSELL,63,Mercedes,1,SOFT,1.0,19.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,11.0,11.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,George RUSSELL,63,Mercedes,2,MEDIUM,12.0,23.0,12.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,George RUSSELL,63,Mercedes,3,HARD,24.0,56.0,33.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,19.0,19.0,4
+Chinese Grand Prix (Shanghai) - 2024-04-20,Kevin MAGNUSSEN,20,Haas F1 Team,1,HARD,1.0,17.0,17.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,18.0,27.0,10.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Kevin MAGNUSSEN,20,Haas F1 Team,3,MEDIUM,28.0,56.0,29.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,19.0,19.0,3
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lance STROLL,18,Aston Martin,1,SOFT,1.0,9.0,9.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lance STROLL,18,Aston Martin,2,MEDIUM,10.0,21.0,12.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lance STROLL,18,Aston Martin,3,HARD,22.0,26.0,5.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lance STROLL,18,Aston Martin,4,MEDIUM,27.0,35.0,9.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lance STROLL,18,Aston Martin,5,HARD,36.0,56.0,21.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,19.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,22.0,22.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lando NORRIS,4,McLaren,2,HARD,23.0,56.0,34.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,19.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lewis HAMILTON,44,Mercedes,1,SOFT,1.0,9.0,9.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lewis HAMILTON,44,Mercedes,2,MEDIUM,10.0,21.0,12.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Lewis HAMILTON,44,Mercedes,3,HARD,22.0,56.0,35.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Logan SARGEANT,2,Williams,1,MEDIUM,1.0,19.0,19.0,6
+Chinese Grand Prix (Shanghai) - 2024-04-20,Logan SARGEANT,2,Williams,1,SOFT,1.0,12.0,12.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Logan SARGEANT,2,Williams,2,MEDIUM,13.0,24.0,12.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Logan SARGEANT,2,Williams,3,HARD,25.0,56.0,32.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,19.0,19.0,3
+Chinese Grand Prix (Shanghai) - 2024-04-20,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,13.0,13.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,14.0,23.0,10.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Max VERSTAPPEN,1,Red Bull Racing,3,HARD,24.0,56.0,33.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,19.0,19.0,4
+Chinese Grand Prix (Shanghai) - 2024-04-20,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,8.0,8.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Nico HULKENBERG,27,Haas F1 Team,2,HARD,9.0,23.0,15.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Nico HULKENBERG,27,Haas F1 Team,3,HARD,24.0,56.0,33.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,19.0,19.0,3
+Chinese Grand Prix (Shanghai) - 2024-04-20,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,16.0,16.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Oscar PIASTRI,81,McLaren,2,MEDIUM,17.0,24.0,8.0,1
+Chinese Grand Prix (Shanghai) - 2024-04-20,Oscar PIASTRI,81,McLaren,3,HARD,25.0,56.0,32.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,19.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,11.0,11.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Pierre GASLY,10,Alpine,2,HARD,12.0,23.0,12.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Pierre GASLY,10,Alpine,3,HARD,24.0,38.0,15.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Pierre GASLY,10,Alpine,4,MEDIUM,39.0,56.0,18.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,19.0,19.0,3
+Chinese Grand Prix (Shanghai) - 2024-04-20,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,13.0,13.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Sergio PEREZ,11,Red Bull Racing,2,HARD,14.0,23.0,10.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Sergio PEREZ,11,Red Bull Racing,3,HARD,24.0,56.0,33.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,19.0,19.0,4
+Chinese Grand Prix (Shanghai) - 2024-04-20,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,9.0,9.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Valtteri BOTTAS,77,Kick Sauber,2,HARD,10.0,19.0,10.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,19.0,19.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Yuki TSUNODA,22,RB,1,SOFT,1.0,8.0,8.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Yuki TSUNODA,22,RB,2,MEDIUM,9.0,23.0,15.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,Yuki TSUNODA,22,RB,3,HARD,24.0,26.0,3.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,19.0,19.0,4
+Chinese Grand Prix (Shanghai) - 2024-04-20,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,8.0,8.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,ZHOU Guanyu,24,Kick Sauber,2,HARD,9.0,23.0,15.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,ZHOU Guanyu,24,Kick Sauber,3,HARD,24.0,40.0,17.0,0
+Chinese Grand Prix (Shanghai) - 2024-04-20,ZHOU Guanyu,24,Kick Sauber,4,SOFT,41.0,56.0,16.0,0

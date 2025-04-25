@@ -1,0 +1,64 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+United States Grand Prix (Austin) - 2024-10-19,Alexander ALBON,23,Williams,1,MEDIUM,1.0,19.0,19.0,0
+United States Grand Prix (Austin) - 2024-10-19,Alexander ALBON,23,Williams,1,MEDIUM,1.0,3.0,3.0,0
+United States Grand Prix (Austin) - 2024-10-19,Alexander ALBON,23,Williams,2,MEDIUM,4.0,33.0,30.0,0
+United States Grand Prix (Austin) - 2024-10-19,Alexander ALBON,23,Williams,3,HARD,34.0,55.0,22.0,0
+United States Grand Prix (Austin) - 2024-10-19,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,21.0,21.0,0
+United States Grand Prix (Austin) - 2024-10-19,Carlos SAINZ,55,Ferrari,2,HARD,22.0,56.0,35.0,0
+United States Grand Prix (Austin) - 2024-10-19,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,26.0,26.0,0
+United States Grand Prix (Austin) - 2024-10-19,Charles LECLERC,16,Ferrari,2,HARD,27.0,56.0,30.0,0
+United States Grand Prix (Austin) - 2024-10-19,Esteban OCON,31,Alpine,1,MEDIUM,1.0,19.0,19.0,0
+United States Grand Prix (Austin) - 2024-10-19,Esteban OCON,31,Alpine,1,MEDIUM,1.0,31.0,31.0,0
+United States Grand Prix (Austin) - 2024-10-19,Esteban OCON,31,Alpine,2,HARD,32.0,51.0,20.0,0
+United States Grand Prix (Austin) - 2024-10-19,Esteban OCON,31,Alpine,3,SOFT,52.0,55.0,4.0,3
+United States Grand Prix (Austin) - 2024-10-19,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,26.0,26.0,0
+United States Grand Prix (Austin) - 2024-10-19,Fernando ALONSO,14,Aston Martin,2,HARD,27.0,55.0,29.0,1
+United States Grand Prix (Austin) - 2024-10-19,Franco COLAPINTO,43,Williams,1,MEDIUM,1.0,19.0,19.0,4
+United States Grand Prix (Austin) - 2024-10-19,Franco COLAPINTO,43,Williams,1,HARD,1.0,39.0,39.0,0
+United States Grand Prix (Austin) - 2024-10-19,Franco COLAPINTO,43,Williams,2,MEDIUM,40.0,56.0,17.0,0
+United States Grand Prix (Austin) - 2024-10-19,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,19.0,19.0,5
+United States Grand Prix (Austin) - 2024-10-19,George RUSSELL,63,Mercedes,1,HARD,1.0,40.0,40.0,0
+United States Grand Prix (Austin) - 2024-10-19,George RUSSELL,63,Mercedes,2,MEDIUM,41.0,56.0,16.0,0
+United States Grand Prix (Austin) - 2024-10-19,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,19.0,19.0,5
+United States Grand Prix (Austin) - 2024-10-19,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,17.0,17.0,0
+United States Grand Prix (Austin) - 2024-10-19,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,18.0,38.0,21.0,0
+United States Grand Prix (Austin) - 2024-10-19,Kevin MAGNUSSEN,20,Haas F1 Team,3,MEDIUM,39.0,56.0,18.0,0
+United States Grand Prix (Austin) - 2024-10-19,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Lance STROLL,18,Aston Martin,1,HARD,1.0,27.0,27.0,1
+United States Grand Prix (Austin) - 2024-10-19,Lance STROLL,18,Aston Martin,2,MEDIUM,28.0,55.0,28.0,0
+United States Grand Prix (Austin) - 2024-10-19,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,19.0,19.0,5
+United States Grand Prix (Austin) - 2024-10-19,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,31.0,31.0,0
+United States Grand Prix (Austin) - 2024-10-19,Lando NORRIS,4,McLaren,2,HARD,32.0,56.0,25.0,0
+United States Grand Prix (Austin) - 2024-10-19,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,19.0,19.0,4
+United States Grand Prix (Austin) - 2024-10-19,Lewis HAMILTON,44,Mercedes,1,HARD,1.0,1.0,1.0,0
+United States Grand Prix (Austin) - 2024-10-19,Liam LAWSON,30,RB,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Liam LAWSON,30,RB,1,HARD,1.0,36.0,36.0,0
+United States Grand Prix (Austin) - 2024-10-19,Liam LAWSON,30,RB,2,MEDIUM,37.0,56.0,20.0,0
+United States Grand Prix (Austin) - 2024-10-19,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,25.0,25.0,0
+United States Grand Prix (Austin) - 2024-10-19,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,26.0,56.0,31.0,0
+United States Grand Prix (Austin) - 2024-10-19,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,19.0,19.0,5
+United States Grand Prix (Austin) - 2024-10-19,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,27.0,27.0,0
+United States Grand Prix (Austin) - 2024-10-19,Nico HULKENBERG,27,Haas F1 Team,2,HARD,28.0,56.0,29.0,0
+United States Grand Prix (Austin) - 2024-10-19,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,19.0,19.0,0
+United States Grand Prix (Austin) - 2024-10-19,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,32.0,32.0,0
+United States Grand Prix (Austin) - 2024-10-19,Oscar PIASTRI,81,McLaren,2,HARD,33.0,56.0,24.0,0
+United States Grand Prix (Austin) - 2024-10-19,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,18.0,18.0,0
+United States Grand Prix (Austin) - 2024-10-19,Pierre GASLY,10,Alpine,2,HARD,19.0,56.0,38.0,0
+United States Grand Prix (Austin) - 2024-10-19,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,19.0,19.0,3
+United States Grand Prix (Austin) - 2024-10-19,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,26.0,26.0,0
+United States Grand Prix (Austin) - 2024-10-19,Sergio PEREZ,11,Red Bull Racing,2,HARD,27.0,56.0,30.0,0
+United States Grand Prix (Austin) - 2024-10-19,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,19.0,19.0,6
+United States Grand Prix (Austin) - 2024-10-19,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,15.0,15.0,0
+United States Grand Prix (Austin) - 2024-10-19,Valtteri BOTTAS,77,Kick Sauber,2,HARD,16.0,55.0,40.0,0
+United States Grand Prix (Austin) - 2024-10-19,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,19.0,19.0,0
+United States Grand Prix (Austin) - 2024-10-19,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,18.0,18.0,0
+United States Grand Prix (Austin) - 2024-10-19,Yuki TSUNODA,22,RB,2,HARD,19.0,55.0,37.0,0
+United States Grand Prix (Austin) - 2024-10-19,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,19.0,19.0,0
+United States Grand Prix (Austin) - 2024-10-19,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,13.0,13.0,0
+United States Grand Prix (Austin) - 2024-10-19,ZHOU Guanyu,24,Kick Sauber,2,MEDIUM,14.0,35.0,22.0,0
+United States Grand Prix (Austin) - 2024-10-19,ZHOU Guanyu,24,Kick Sauber,3,HARD,36.0,55.0,20.0,0

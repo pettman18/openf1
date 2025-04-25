@@ -1,0 +1,75 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Alexander ALBON,23,Williams,1,MEDIUM,1.0,24.0,24.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,24.0,24.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Carlos SAINZ,55,Ferrari,1,INTERMEDIATE,1.0,27.0,27.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Carlos SAINZ,55,Ferrari,2,INTERMEDIATE,28.0,32.0,5.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Carlos SAINZ,55,Ferrari,3,INTERMEDIATE,33.0,38.0,6.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,24.0,24.0,6
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Charles LECLERC,16,Ferrari,1,INTERMEDIATE,1.0,24.0,24.0,2
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Charles LECLERC,16,Ferrari,2,INTERMEDIATE,25.0,32.0,8.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Charles LECLERC,16,Ferrari,3,INTERMEDIATE,33.0,69.0,37.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Esteban OCON,31,Alpine,1,MEDIUM,1.0,24.0,24.0,6
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Esteban OCON,31,Alpine,1,INTERMEDIATE,1.0,32.0,32.0,2
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Esteban OCON,31,Alpine,2,INTERMEDIATE,33.0,69.0,37.0,2
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,24.0,24.0,6
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Fernando ALONSO,14,Aston Martin,1,INTERMEDIATE,1.0,27.0,27.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Fernando ALONSO,14,Aston Martin,2,INTERMEDIATE,28.0,32.0,5.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Fernando ALONSO,14,Aston Martin,3,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Franco COLAPINTO,43,Williams,1,MEDIUM,1.0,24.0,24.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Franco COLAPINTO,43,Williams,1,INTERMEDIATE,1.0,26.0,26.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Franco COLAPINTO,43,Williams,2,INTERMEDIATE,27.0,30.0,4.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Franco COLAPINTO,43,Williams,3,INTERMEDIATE,31.0,31.0,1.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,24.0,24.0,6
+São Paulo Grand Prix (Interlagos) - 2024-11-02,George RUSSELL,63,Mercedes,1,INTERMEDIATE,1.0,28.0,28.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,George RUSSELL,63,Mercedes,2,INTERMEDIATE,29.0,32.0,4.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,George RUSSELL,63,Mercedes,3,INTERMEDIATE,33.0,69.0,37.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,24.0,24.0,6
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lance STROLL,18,Aston Martin,1,INTERMEDIATE,N/A,N/A,N/A,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,24.0,24.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lando NORRIS,4,McLaren,1,INTERMEDIATE,1.0,28.0,28.0,4
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lando NORRIS,4,McLaren,2,INTERMEDIATE,29.0,32.0,4.0,4
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lando NORRIS,4,McLaren,3,INTERMEDIATE,33.0,69.0,37.0,4
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,24.0,24.0,7
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lewis HAMILTON,44,Mercedes,1,INTERMEDIATE,1.0,27.0,27.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lewis HAMILTON,44,Mercedes,2,INTERMEDIATE,28.0,32.0,5.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Lewis HAMILTON,44,Mercedes,3,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Liam LAWSON,30,RB,1,MEDIUM,1.0,24.0,24.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Liam LAWSON,30,RB,1,INTERMEDIATE,1.0,28.0,28.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Liam LAWSON,30,RB,2,WET,29.0,32.0,4.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Liam LAWSON,30,RB,3,INTERMEDIATE,33.0,69.0,37.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,24.0,24.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Max VERSTAPPEN,1,Red Bull Racing,1,INTERMEDIATE,1.0,32.0,32.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Max VERSTAPPEN,1,Red Bull Racing,2,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,19.0,19.0,5
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Nico HULKENBERG,27,Haas F1 Team,1,INTERMEDIATE,1.0,25.0,25.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Nico HULKENBERG,27,Haas F1 Team,2,INTERMEDIATE,26.0,27.0,2.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Nico HULKENBERG,27,Haas F1 Team,3,WET,28.0,29.0,2.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Nico HULKENBERG,27,Haas F1 Team,4,INTERMEDIATE,30.0,30.0,1.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oliver BEARMAN,50,Haas F1 Team,1,MEDIUM,1.0,24.0,24.0,6
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oliver BEARMAN,50,Haas F1 Team,1,INTERMEDIATE,1.0,27.0,27.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oliver BEARMAN,50,Haas F1 Team,2,INTERMEDIATE,28.0,32.0,5.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oliver BEARMAN,50,Haas F1 Team,3,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,24.0,24.0,4
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oscar PIASTRI,81,McLaren,1,INTERMEDIATE,1.0,27.0,27.0,2
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oscar PIASTRI,81,McLaren,2,INTERMEDIATE,28.0,32.0,5.0,4
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Oscar PIASTRI,81,McLaren,3,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,24.0,24.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Pierre GASLY,10,Alpine,1,INTERMEDIATE,1.0,32.0,32.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Pierre GASLY,10,Alpine,2,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,24.0,24.0,4
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Sergio PEREZ,11,Red Bull Racing,1,INTERMEDIATE,1.0,27.0,27.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Sergio PEREZ,11,Red Bull Racing,2,WET,28.0,32.0,5.0,5
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Sergio PEREZ,11,Red Bull Racing,3,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,24.0,24.0,6
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Valtteri BOTTAS,77,Kick Sauber,1,INTERMEDIATE,1.0,32.0,32.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Valtteri BOTTAS,77,Kick Sauber,2,INTERMEDIATE,33.0,69.0,37.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,24.0,24.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Yuki TSUNODA,22,RB,1,INTERMEDIATE,1.0,28.0,28.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Yuki TSUNODA,22,RB,2,WET,29.0,32.0,4.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,Yuki TSUNODA,22,RB,3,INTERMEDIATE,33.0,69.0,37.0,3
+São Paulo Grand Prix (Interlagos) - 2024-11-02,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,24.0,24.0,5
+São Paulo Grand Prix (Interlagos) - 2024-11-02,ZHOU Guanyu,24,Kick Sauber,1,INTERMEDIATE,1.0,27.0,27.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,ZHOU Guanyu,24,Kick Sauber,2,INTERMEDIATE,28.0,28.0,1.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,ZHOU Guanyu,24,Kick Sauber,3,WET,29.0,31.0,3.0,5
+São Paulo Grand Prix (Interlagos) - 2024-11-02,ZHOU Guanyu,24,Kick Sauber,4,INTERMEDIATE,32.0,32.0,1.0,0
+São Paulo Grand Prix (Interlagos) - 2024-11-02,ZHOU Guanyu,24,Kick Sauber,5,INTERMEDIATE,33.0,69.0,37.0,0

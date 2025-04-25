@@ -1,0 +1,64 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Alexander ALBON,23,Williams,1,SOFT,1.0,15.0,15.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Alexander ALBON,23,Williams,2,HARD,16.0,36.0,21.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Alexander ALBON,23,Williams,3,HARD,37.0,56.0,20.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Carlos SAINZ,55,Ferrari,1,SOFT,1.0,14.0,14.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Carlos SAINZ,55,Ferrari,2,HARD,15.0,35.0,21.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Carlos SAINZ,55,Ferrari,3,HARD,36.0,57.0,22.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Charles LECLERC,16,Ferrari,1,SOFT,1.0,11.0,11.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Charles LECLERC,16,Ferrari,2,HARD,12.0,34.0,23.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Charles LECLERC,16,Ferrari,3,HARD,35.0,57.0,23.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Daniel RICCIARDO,3,RB,1,SOFT,1.0,13.0,13.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Daniel RICCIARDO,3,RB,2,HARD,14.0,35.0,22.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Daniel RICCIARDO,3,RB,3,SOFT,36.0,56.0,21.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Esteban OCON,31,Alpine,1,SOFT,1.0,10.0,10.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Esteban OCON,31,Alpine,2,HARD,11.0,30.0,20.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Esteban OCON,31,Alpine,3,HARD,31.0,56.0,26.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Fernando ALONSO,14,Aston Martin,1,SOFT,1.0,15.0,15.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Fernando ALONSO,14,Aston Martin,2,HARD,16.0,41.0,26.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Fernando ALONSO,14,Aston Martin,3,HARD,42.0,57.0,16.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,George RUSSELL,63,Mercedes,1,SOFT,1.0,11.0,11.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,George RUSSELL,63,Mercedes,2,HARD,12.0,31.0,20.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,George RUSSELL,63,Mercedes,3,HARD,32.0,57.0,26.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Kevin MAGNUSSEN,20,Haas F1 Team,1,SOFT,1.0,11.0,11.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,12.0,32.0,21.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Kevin MAGNUSSEN,20,Haas F1 Team,3,HARD,33.0,56.0,24.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lance STROLL,18,Aston Martin,1,SOFT,1.0,9.0,9.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lance STROLL,18,Aston Martin,2,HARD,10.0,27.0,18.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lance STROLL,18,Aston Martin,3,HARD,28.0,57.0,30.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lando NORRIS,4,McLaren,1,SOFT,1.0,13.0,13.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lando NORRIS,4,McLaren,2,HARD,14.0,33.0,20.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lando NORRIS,4,McLaren,3,HARD,34.0,57.0,24.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lewis HAMILTON,44,Mercedes,1,SOFT,1.0,12.0,12.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lewis HAMILTON,44,Mercedes,2,HARD,13.0,33.0,21.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Lewis HAMILTON,44,Mercedes,3,HARD,34.0,57.0,24.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Logan SARGEANT,2,Williams,1,SOFT,1.0,10.0,10.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Logan SARGEANT,2,Williams,2,HARD,11.0,28.0,18.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Logan SARGEANT,2,Williams,3,HARD,29.0,40.0,12.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Logan SARGEANT,2,Williams,4,SOFT,41.0,55.0,15.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Max VERSTAPPEN,1,Red Bull Racing,1,SOFT,1.0,17.0,17.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,18.0,37.0,20.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Max VERSTAPPEN,1,Red Bull Racing,3,SOFT,38.0,57.0,20.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Nico HULKENBERG,27,Haas F1 Team,1,SOFT,1.0,1.0,1.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Nico HULKENBERG,27,Haas F1 Team,2,HARD,2.0,20.0,19.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Nico HULKENBERG,27,Haas F1 Team,3,HARD,21.0,41.0,21.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Nico HULKENBERG,27,Haas F1 Team,4,SOFT,42.0,56.0,15.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Oscar PIASTRI,81,McLaren,1,SOFT,1.0,12.0,12.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Oscar PIASTRI,81,McLaren,2,HARD,13.0,34.0,22.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Oscar PIASTRI,81,McLaren,3,HARD,35.0,57.0,23.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Pierre GASLY,10,Alpine,1,SOFT,1.0,12.0,12.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Pierre GASLY,10,Alpine,2,HARD,13.0,31.0,19.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Pierre GASLY,10,Alpine,3,HARD,32.0,43.0,12.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Pierre GASLY,10,Alpine,4,SOFT,44.0,56.0,13.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Sergio PEREZ,11,Red Bull Racing,1,SOFT,1.0,12.0,12.0,3
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Sergio PEREZ,11,Red Bull Racing,2,HARD,13.0,36.0,24.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Sergio PEREZ,11,Red Bull Racing,3,SOFT,37.0,57.0,21.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Valtteri BOTTAS,77,Kick Sauber,1,SOFT,1.0,12.0,12.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Valtteri BOTTAS,77,Kick Sauber,2,HARD,13.0,30.0,18.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Valtteri BOTTAS,77,Kick Sauber,3,HARD,31.0,56.0,26.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Yuki TSUNODA,22,RB,1,SOFT,1.0,14.0,14.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Yuki TSUNODA,22,RB,2,HARD,15.0,34.0,20.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,Yuki TSUNODA,22,RB,3,HARD,35.0,56.0,22.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,ZHOU Guanyu,24,Kick Sauber,1,SOFT,1.0,9.0,9.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,ZHOU Guanyu,24,Kick Sauber,2,HARD,10.0,28.0,19.0,0
+Bahrain Grand Prix (Sakhir) - 2024-03-02,ZHOU Guanyu,24,Kick Sauber,3,HARD,29.0,56.0,28.0,0

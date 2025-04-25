@@ -1,0 +1,42 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Alexander ALBON,23,Williams,1,MEDIUM,N/A,N/A,N/A,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,32.0,32.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Carlos SAINZ,55,Ferrari,2,HARD,33.0,71.0,39.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,31.0,31.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Charles LECLERC,16,Ferrari,2,HARD,32.0,69.0,38.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Charles LECLERC,16,Ferrari,3,SOFT,70.0,71.0,2.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Esteban OCON,31,Alpine,1,HARD,1.0,48.0,48.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Esteban OCON,31,Alpine,2,MEDIUM,49.0,70.0,22.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,15.0,15.0,1
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Franco COLAPINTO,43,Williams,1,HARD,1.0,47.0,47.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Franco COLAPINTO,43,Williams,2,MEDIUM,48.0,70.0,23.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,31.0,31.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,George RUSSELL,63,Mercedes,2,HARD,32.0,71.0,40.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,30.0,30.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,31.0,71.0,41.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,26.0,26.0,1
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Lance STROLL,18,Aston Martin,2,HARD,27.0,70.0,44.0,1
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,30.0,30.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Lando NORRIS,4,McLaren,2,HARD,31.0,71.0,41.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,28.0,28.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Lewis HAMILTON,44,Mercedes,2,HARD,29.0,71.0,43.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Liam LAWSON,30,RB,1,HARD,1.0,39.0,39.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Liam LAWSON,30,RB,2,MEDIUM,40.0,65.0,26.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Liam LAWSON,30,RB,3,SOFT,66.0,70.0,5.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,26.0,26.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,27.0,71.0,45.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,29.0,29.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Nico HULKENBERG,27,Haas F1 Team,2,HARD,30.0,70.0,41.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,39.0,39.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Oscar PIASTRI,81,McLaren,2,HARD,40.0,71.0,32.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,28.0,28.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Pierre GASLY,10,Alpine,2,HARD,29.0,70.0,42.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Sergio PEREZ,11,Red Bull Racing,1,HARD,1.0,20.0,20.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,21.0,43.0,23.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Sergio PEREZ,11,Red Bull Racing,3,MEDIUM,44.0,68.0,25.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Sergio PEREZ,11,Red Bull Racing,4,SOFT,69.0,70.0,2.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Valtteri BOTTAS,77,Kick Sauber,1,HARD,1.0,49.0,49.0,1
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Valtteri BOTTAS,77,Kick Sauber,2,MEDIUM,50.0,70.0,21.0,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,Yuki TSUNODA,22,RB,1,MEDIUM,N/A,N/A,N/A,0
+Mexico City Grand Prix (Mexico City) - 2024-10-27,ZHOU Guanyu,24,Kick Sauber,1,HARD,1.0,43.0,43.0,1
+Mexico City Grand Prix (Mexico City) - 2024-10-27,ZHOU Guanyu,24,Kick Sauber,2,MEDIUM,44.0,70.0,27.0,1

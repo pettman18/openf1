@@ -1,0 +1,106 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Miami Grand Prix (Miami) - 2024-05-04,Alexander ALBON,23,Williams,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Alexander ALBON,23,Williams,2,MEDIUM,2.0,2.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Alexander ALBON,23,Williams,3,MEDIUM,3.0,19.0,17.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Alexander ALBON,23,Williams,1,MEDIUM,1.0,10.0,10.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Alexander ALBON,23,Williams,2,HARD,11.0,53.0,43.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Alexander ALBON,23,Williams,3,SOFT,54.0,57.0,4.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Carlos SAINZ,55,Ferrari,2,MEDIUM,2.0,2.0,1.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Carlos SAINZ,55,Ferrari,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,27.0,27.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Carlos SAINZ,55,Ferrari,2,HARD,28.0,57.0,30.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Charles LECLERC,16,Ferrari,2,MEDIUM,2.0,2.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Charles LECLERC,16,Ferrari,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,19.0,19.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Charles LECLERC,16,Ferrari,2,HARD,20.0,57.0,38.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Daniel RICCIARDO,3,RB,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Daniel RICCIARDO,3,RB,2,MEDIUM,2.0,2.0,1.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Daniel RICCIARDO,3,RB,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Daniel RICCIARDO,3,RB,1,HARD,1.0,28.0,28.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Daniel RICCIARDO,3,RB,2,MEDIUM,29.0,57.0,29.0,5
+Miami Grand Prix (Miami) - 2024-05-04,Esteban OCON,31,Alpine,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Esteban OCON,31,Alpine,2,MEDIUM,2.0,2.0,1.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Esteban OCON,31,Alpine,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Esteban OCON,31,Alpine,1,MEDIUM,1.0,22.0,22.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Esteban OCON,31,Alpine,2,HARD,23.0,57.0,35.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,1.0,1.0,5
+Miami Grand Prix (Miami) - 2024-05-04,Fernando ALONSO,14,Aston Martin,2,MEDIUM,2.0,2.0,1.0,6
+Miami Grand Prix (Miami) - 2024-05-04,Fernando ALONSO,14,Aston Martin,3,MEDIUM,3.0,18.0,16.0,7
+Miami Grand Prix (Miami) - 2024-05-04,Fernando ALONSO,14,Aston Martin,4,MEDIUM,19.0,19.0,1.0,23
+Miami Grand Prix (Miami) - 2024-05-04,Fernando ALONSO,14,Aston Martin,1,HARD,1.0,22.0,22.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Fernando ALONSO,14,Aston Martin,2,MEDIUM,23.0,57.0,35.0,1
+Miami Grand Prix (Miami) - 2024-05-04,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,1.0,1.0,6
+Miami Grand Prix (Miami) - 2024-05-04,George RUSSELL,63,Mercedes,2,MEDIUM,2.0,2.0,1.0,7
+Miami Grand Prix (Miami) - 2024-05-04,George RUSSELL,63,Mercedes,3,MEDIUM,3.0,19.0,17.0,8
+Miami Grand Prix (Miami) - 2024-05-04,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,24.0,24.0,3
+Miami Grand Prix (Miami) - 2024-05-04,George RUSSELL,63,Mercedes,2,HARD,25.0,57.0,33.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,1.0,1.0,6
+Miami Grand Prix (Miami) - 2024-05-04,Kevin MAGNUSSEN,20,Haas F1 Team,2,MEDIUM,2.0,2.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Kevin MAGNUSSEN,20,Haas F1 Team,3,MEDIUM,3.0,19.0,17.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Kevin MAGNUSSEN,20,Haas F1 Team,1,HARD,1.0,22.0,22.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Kevin MAGNUSSEN,20,Haas F1 Team,2,MEDIUM,23.0,28.0,6.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Kevin MAGNUSSEN,20,Haas F1 Team,3,MEDIUM,29.0,31.0,3.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Kevin MAGNUSSEN,20,Haas F1 Team,4,MEDIUM,32.0,57.0,26.0,3
+Miami Grand Prix (Miami) - 2024-05-04,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,1.0,1.0,6
+Miami Grand Prix (Miami) - 2024-05-04,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,11.0,11.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Lance STROLL,18,Aston Martin,2,HARD,12.0,28.0,17.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Lance STROLL,18,Aston Martin,3,MEDIUM,29.0,57.0,29.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Lando NORRIS,4,McLaren,1,MEDIUM,N/A,N/A,N/A,3
+Miami Grand Prix (Miami) - 2024-05-04,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,29.0,29.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Lando NORRIS,4,McLaren,2,HARD,30.0,57.0,28.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,1.0,1.0,6
+Miami Grand Prix (Miami) - 2024-05-04,Lewis HAMILTON,44,Mercedes,2,MEDIUM,2.0,2.0,1.0,7
+Miami Grand Prix (Miami) - 2024-05-04,Lewis HAMILTON,44,Mercedes,3,MEDIUM,3.0,19.0,17.0,8
+Miami Grand Prix (Miami) - 2024-05-04,Lewis HAMILTON,44,Mercedes,1,HARD,1.0,26.0,26.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Lewis HAMILTON,44,Mercedes,2,MEDIUM,27.0,57.0,31.0,3
+Miami Grand Prix (Miami) - 2024-05-04,Logan SARGEANT,2,Williams,1,SOFT,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Logan SARGEANT,2,Williams,2,SOFT,2.0,2.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Logan SARGEANT,2,Williams,3,SOFT,3.0,19.0,17.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Logan SARGEANT,2,Williams,1,MEDIUM,1.0,11.0,11.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Logan SARGEANT,2,Williams,2,HARD,12.0,27.0,16.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,1.0,1.0,3
+Miami Grand Prix (Miami) - 2024-05-04,Max VERSTAPPEN,1,Red Bull Racing,2,MEDIUM,2.0,2.0,1.0,4
+Miami Grand Prix (Miami) - 2024-05-04,Max VERSTAPPEN,1,Red Bull Racing,3,MEDIUM,3.0,19.0,17.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,23.0,23.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,24.0,57.0,34.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,1.0,1.0,6
+Miami Grand Prix (Miami) - 2024-05-04,Nico HULKENBERG,27,Haas F1 Team,2,MEDIUM,2.0,2.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Nico HULKENBERG,27,Haas F1 Team,3,MEDIUM,3.0,19.0,17.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,12.0,12.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Nico HULKENBERG,27,Haas F1 Team,2,HARD,13.0,28.0,16.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Nico HULKENBERG,27,Haas F1 Team,3,MEDIUM,29.0,57.0,29.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Oscar PIASTRI,81,McLaren,2,MEDIUM,2.0,2.0,1.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Oscar PIASTRI,81,McLaren,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,27.0,27.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Oscar PIASTRI,81,McLaren,2,HARD,28.0,40.0,13.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Oscar PIASTRI,81,McLaren,3,MEDIUM,41.0,57.0,17.0,6
+Miami Grand Prix (Miami) - 2024-05-04,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Pierre GASLY,10,Alpine,2,MEDIUM,2.0,2.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Pierre GASLY,10,Alpine,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,12.0,12.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Pierre GASLY,10,Alpine,2,HARD,13.0,57.0,45.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,1.0,1.0,3
+Miami Grand Prix (Miami) - 2024-05-04,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,2.0,2.0,1.0,4
+Miami Grand Prix (Miami) - 2024-05-04,Sergio PEREZ,11,Red Bull Racing,3,MEDIUM,3.0,19.0,17.0,5
+Miami Grand Prix (Miami) - 2024-05-04,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,17.0,17.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Sergio PEREZ,11,Red Bull Racing,2,HARD,18.0,28.0,11.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Sergio PEREZ,11,Red Bull Racing,3,MEDIUM,29.0,57.0,29.0,5
+Miami Grand Prix (Miami) - 2024-05-04,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Valtteri BOTTAS,77,Kick Sauber,2,MEDIUM,2.0,2.0,1.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Valtteri BOTTAS,77,Kick Sauber,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Valtteri BOTTAS,77,Kick Sauber,1,SOFT,1.0,11.0,11.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Valtteri BOTTAS,77,Kick Sauber,2,HARD,12.0,29.0,18.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Valtteri BOTTAS,77,Kick Sauber,3,MEDIUM,30.0,57.0,28.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Yuki TSUNODA,22,RB,1,SOFT,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Yuki TSUNODA,22,RB,2,SOFT,2.0,2.0,1.0,1
+Miami Grand Prix (Miami) - 2024-05-04,Yuki TSUNODA,22,RB,3,SOFT,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,28.0,28.0,0
+Miami Grand Prix (Miami) - 2024-05-04,Yuki TSUNODA,22,RB,2,HARD,29.0,57.0,29.0,0
+Miami Grand Prix (Miami) - 2024-05-04,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,1.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,ZHOU Guanyu,24,Kick Sauber,2,MEDIUM,2.0,2.0,1.0,0
+Miami Grand Prix (Miami) - 2024-05-04,ZHOU Guanyu,24,Kick Sauber,3,MEDIUM,3.0,19.0,17.0,2
+Miami Grand Prix (Miami) - 2024-05-04,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,28.0,28.0,0
+Miami Grand Prix (Miami) - 2024-05-04,ZHOU Guanyu,24,Kick Sauber,2,SOFT,29.0,57.0,29.0,0

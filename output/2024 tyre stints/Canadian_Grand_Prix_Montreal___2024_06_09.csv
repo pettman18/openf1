@@ -1,0 +1,63 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Canadian Grand Prix (Montreal) - 2024-06-09,Alexander ALBON,23,Williams,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Alexander ALBON,23,Williams,2,INTERMEDIATE,25.0,44.0,20.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Alexander ALBON,23,Williams,3,MEDIUM,44.0,52.0,9.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Carlos SAINZ,55,Ferrari,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Carlos SAINZ,55,Ferrari,2,INTERMEDIATE,25.0,43.0,19.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Carlos SAINZ,55,Ferrari,3,MEDIUM,43.0,52.0,10.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Charles LECLERC,16,Ferrari,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Charles LECLERC,16,Ferrari,2,INTERMEDIATE,25.0,28.0,4.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Charles LECLERC,16,Ferrari,3,HARD,28.0,31.0,4.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Charles LECLERC,16,Ferrari,4,INTERMEDIATE,31.0,40.0,10.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Daniel RICCIARDO,3,RB,1,INTERMEDIATE,1.0,26.0,26.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Daniel RICCIARDO,3,RB,2,INTERMEDIATE,26.0,43.0,18.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Daniel RICCIARDO,3,RB,3,MEDIUM,43.0,70.0,28.0,1
+Canadian Grand Prix (Montreal) - 2024-06-09,Esteban OCON,31,Alpine,1,INTERMEDIATE,1.0,44.0,44.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Esteban OCON,31,Alpine,2,MEDIUM,44.0,70.0,27.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Fernando ALONSO,14,Aston Martin,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Fernando ALONSO,14,Aston Martin,2,INTERMEDIATE,25.0,44.0,20.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Fernando ALONSO,14,Aston Martin,3,HARD,44.0,70.0,27.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,George RUSSELL,63,Mercedes,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,George RUSSELL,63,Mercedes,2,INTERMEDIATE,25.0,45.0,21.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,George RUSSELL,63,Mercedes,3,HARD,46.0,54.0,9.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,George RUSSELL,63,Mercedes,4,MEDIUM,54.0,70.0,17.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Kevin MAGNUSSEN,20,Haas F1 Team,1,WET,1.0,7.0,7.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Kevin MAGNUSSEN,20,Haas F1 Team,2,INTERMEDIATE,7.0,25.0,19.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Kevin MAGNUSSEN,20,Haas F1 Team,3,INTERMEDIATE,25.0,41.0,17.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Kevin MAGNUSSEN,20,Haas F1 Team,4,MEDIUM,41.0,54.0,14.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Kevin MAGNUSSEN,20,Haas F1 Team,5,MEDIUM,54.0,70.0,17.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lance STROLL,18,Aston Martin,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lance STROLL,18,Aston Martin,2,INTERMEDIATE,25.0,44.0,20.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lance STROLL,18,Aston Martin,3,HARD,44.0,70.0,27.0,1
+Canadian Grand Prix (Montreal) - 2024-06-09,Lando NORRIS,4,McLaren,1,INTERMEDIATE,1.0,26.0,26.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lando NORRIS,4,McLaren,2,INTERMEDIATE,26.0,47.0,22.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lando NORRIS,4,McLaren,3,MEDIUM,47.0,70.0,24.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lewis HAMILTON,44,Mercedes,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lewis HAMILTON,44,Mercedes,2,INTERMEDIATE,25.0,43.0,19.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lewis HAMILTON,44,Mercedes,3,MEDIUM,43.0,54.0,12.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Lewis HAMILTON,44,Mercedes,4,HARD,54.0,70.0,17.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Logan SARGEANT,2,Williams,1,INTERMEDIATE,1.0,23.0,23.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Max VERSTAPPEN,1,Red Bull Racing,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Max VERSTAPPEN,1,Red Bull Racing,2,INTERMEDIATE,25.0,45.0,21.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Max VERSTAPPEN,1,Red Bull Racing,3,MEDIUM,45.0,70.0,26.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Nico HULKENBERG,27,Haas F1 Team,1,WET,1.0,12.0,12.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Nico HULKENBERG,27,Haas F1 Team,2,INTERMEDIATE,12.0,25.0,14.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Nico HULKENBERG,27,Haas F1 Team,3,INTERMEDIATE,25.0,44.0,20.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Nico HULKENBERG,27,Haas F1 Team,4,MEDIUM,44.0,70.0,27.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Oscar PIASTRI,81,McLaren,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Oscar PIASTRI,81,McLaren,2,INTERMEDIATE,25.0,44.0,20.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Oscar PIASTRI,81,McLaren,3,MEDIUM,44.0,70.0,27.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Pierre GASLY,10,Alpine,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Pierre GASLY,10,Alpine,2,INTERMEDIATE,25.0,40.0,16.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Pierre GASLY,10,Alpine,3,HARD,40.0,70.0,31.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Sergio PEREZ,11,Red Bull Racing,1,INTERMEDIATE,1.0,25.0,25.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Sergio PEREZ,11,Red Bull Racing,2,INTERMEDIATE,25.0,43.0,19.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Sergio PEREZ,11,Red Bull Racing,3,MEDIUM,43.0,51.0,9.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Valtteri BOTTAS,77,Kick Sauber,1,INTERMEDIATE,1.0,42.0,42.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Valtteri BOTTAS,77,Kick Sauber,2,MEDIUM,42.0,70.0,29.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Yuki TSUNODA,22,RB,1,INTERMEDIATE,1.0,44.0,44.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,Yuki TSUNODA,22,RB,2,MEDIUM,44.0,70.0,27.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,ZHOU Guanyu,24,Kick Sauber,1,INTERMEDIATE,1.0,24.0,24.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,ZHOU Guanyu,24,Kick Sauber,2,INTERMEDIATE,24.0,44.0,21.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,ZHOU Guanyu,24,Kick Sauber,3,MEDIUM,44.0,52.0,9.0,0
+Canadian Grand Prix (Montreal) - 2024-06-09,ZHOU Guanyu,24,Kick Sauber,4,MEDIUM,52.0,69.0,18.0,0

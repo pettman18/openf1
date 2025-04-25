@@ -1,0 +1,61 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Alexander ALBON,23,Williams,1,SOFT,1.0,6.0,6.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Alexander ALBON,23,Williams,2,HARD,7.0,29.0,23.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Alexander ALBON,23,Williams,3,HARD,30.0,69.0,40.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,21.0,21.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Carlos SAINZ,55,Ferrari,2,HARD,22.0,47.0,26.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Carlos SAINZ,55,Ferrari,3,MEDIUM,48.0,70.0,23.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,23.0,23.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Charles LECLERC,16,Ferrari,2,HARD,24.0,40.0,17.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Charles LECLERC,16,Ferrari,3,MEDIUM,41.0,70.0,30.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Daniel RICCIARDO,3,RB,1,MEDIUM,1.0,7.0,7.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Daniel RICCIARDO,3,RB,2,HARD,8.0,28.0,21.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Daniel RICCIARDO,3,RB,3,HARD,29.0,69.0,41.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Esteban OCON,31,Alpine,1,MEDIUM,1.0,6.0,6.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Esteban OCON,31,Alpine,2,HARD,7.0,30.0,24.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Esteban OCON,31,Alpine,3,HARD,31.0,64.0,34.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Esteban OCON,31,Alpine,4,SOFT,65.0,69.0,5.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Fernando ALONSO,14,Aston Martin,1,SOFT,1.0,7.0,7.0,2
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Fernando ALONSO,14,Aston Martin,2,MEDIUM,8.0,37.0,30.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Fernando ALONSO,14,Aston Martin,3,HARD,38.0,70.0,33.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,George RUSSELL,63,Mercedes,1,HARD,1.0,33.0,33.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,George RUSSELL,63,Mercedes,2,MEDIUM,34.0,53.0,20.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,George RUSSELL,63,Mercedes,3,HARD,54.0,70.0,17.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Kevin MAGNUSSEN,20,Haas F1 Team,1,SOFT,1.0,6.0,6.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,7.0,34.0,28.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Kevin MAGNUSSEN,20,Haas F1 Team,3,HARD,35.0,69.0,35.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lance STROLL,18,Aston Martin,1,SOFT,1.0,14.0,14.0,3
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lance STROLL,18,Aston Martin,2,MEDIUM,15.0,45.0,31.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lance STROLL,18,Aston Martin,3,HARD,46.0,70.0,25.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,17.0,17.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lando NORRIS,4,McLaren,2,HARD,18.0,45.0,28.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lando NORRIS,4,McLaren,3,MEDIUM,46.0,70.0,25.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,16.0,16.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lewis HAMILTON,44,Mercedes,2,HARD,17.0,40.0,24.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Lewis HAMILTON,44,Mercedes,3,HARD,41.0,70.0,30.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Logan SARGEANT,2,Williams,1,MEDIUM,1.0,8.0,8.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Logan SARGEANT,2,Williams,2,HARD,9.0,33.0,25.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Logan SARGEANT,2,Williams,3,HARD,34.0,63.0,30.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Logan SARGEANT,2,Williams,4,SOFT,64.0,69.0,6.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,21.0,21.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,22.0,49.0,28.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Max VERSTAPPEN,1,Red Bull Racing,3,MEDIUM,50.0,70.0,21.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,2.0,2.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Nico HULKENBERG,27,Haas F1 Team,2,HARD,3.0,29.0,27.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Nico HULKENBERG,27,Haas F1 Team,3,HARD,30.0,69.0,40.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,18.0,18.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Oscar PIASTRI,81,McLaren,2,HARD,19.0,47.0,29.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Oscar PIASTRI,81,McLaren,3,MEDIUM,48.0,70.0,23.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Pierre GASLY,10,Alpine,1,HARD,1.0,28.0,28.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Pierre GASLY,10,Alpine,2,MEDIUM,29.0,33.0,5.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Sergio PEREZ,11,Red Bull Racing,1,HARD,1.0,28.0,28.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,29.0,47.0,19.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Sergio PEREZ,11,Red Bull Racing,3,MEDIUM,48.0,70.0,23.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,16.0,16.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Valtteri BOTTAS,77,Kick Sauber,2,HARD,17.0,45.0,29.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Valtteri BOTTAS,77,Kick Sauber,3,HARD,46.0,69.0,24.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,29.0,29.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,Yuki TSUNODA,22,RB,2,HARD,30.0,70.0,41.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,7.0,7.0,1
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,ZHOU Guanyu,24,Kick Sauber,2,HARD,8.0,36.0,29.0,0
+Hungarian Grand Prix (Hungaroring) - 2024-07-21,ZHOU Guanyu,24,Kick Sauber,3,HARD,37.0,69.0,33.0,0

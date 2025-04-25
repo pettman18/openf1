@@ -1,0 +1,105 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Qatar Grand Prix (Lusail) - 2024-11-30,Alexander ALBON,23,Williams,1,MEDIUM,1.0,19.0,19.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Alexander ALBON,23,Williams,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Alexander ALBON,23,Williams,2,SOFT,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Alexander ALBON,23,Williams,3,SOFT,37.0,37.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Alexander ALBON,23,Williams,4,SOFT,38.0,55.0,18.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Alexander ALBON,23,Williams,5,SOFT,56.0,56.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,19.0,19.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,34.0,34.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Carlos SAINZ,55,Ferrari,2,HARD,35.0,36.0,2.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Carlos SAINZ,55,Ferrari,3,HARD,37.0,37.0,1.0,2
+Qatar Grand Prix (Lusail) - 2024-11-30,Carlos SAINZ,55,Ferrari,4,HARD,38.0,57.0,20.0,3
+Qatar Grand Prix (Lusail) - 2024-11-30,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,19.0,19.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,35.0,35.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Charles LECLERC,16,Ferrari,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Charles LECLERC,16,Ferrari,3,HARD,37.0,37.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Charles LECLERC,16,Ferrari,4,HARD,38.0,57.0,20.0,2
+Qatar Grand Prix (Lusail) - 2024-11-30,Esteban OCON,31,Alpine,1,MEDIUM,1.0,19.0,19.0,7
+Qatar Grand Prix (Lusail) - 2024-11-30,Esteban OCON,31,Alpine,1,UNKNOWN,N/A,N/A,N/A,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Esteban OCON,31,Alpine,2,MEDIUM,N/A,N/A,N/A,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,19.0,19.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Fernando ALONSO,14,Aston Martin,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Fernando ALONSO,14,Aston Martin,3,MEDIUM,37.0,37.0,1.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Fernando ALONSO,14,Aston Martin,4,MEDIUM,38.0,57.0,20.0,7
+Qatar Grand Prix (Lusail) - 2024-11-30,Franco COLAPINTO,43,Williams,1,MEDIUM,1.0,19.0,19.0,4
+Qatar Grand Prix (Lusail) - 2024-11-30,Franco COLAPINTO,43,Williams,1,UNKNOWN,N/A,N/A,N/A,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Franco COLAPINTO,43,Williams,2,MEDIUM,N/A,N/A,N/A,0
+Qatar Grand Prix (Lusail) - 2024-11-30,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,19.0,19.0,4
+Qatar Grand Prix (Lusail) - 2024-11-30,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,23.0,23.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,George RUSSELL,63,Mercedes,2,HARD,24.0,35.0,12.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,George RUSSELL,63,Mercedes,3,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,George RUSSELL,63,Mercedes,4,HARD,37.0,37.0,1.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,George RUSSELL,63,Mercedes,5,HARD,38.0,57.0,20.0,2
+Qatar Grand Prix (Lusail) - 2024-11-30,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,19.0,19.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,27.0,27.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,28.0,36.0,9.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Kevin MAGNUSSEN,20,Haas F1 Team,3,HARD,37.0,37.0,1.0,27
+Qatar Grand Prix (Lusail) - 2024-11-30,Kevin MAGNUSSEN,20,Haas F1 Team,4,HARD,38.0,57.0,20.0,28
+Qatar Grand Prix (Lusail) - 2024-11-30,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,19.0,19.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,1.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lance STROLL,18,Aston Martin,2,HARD,2.0,7.0,6.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lance STROLL,18,Aston Martin,3,HARD,8.0,8.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,19.0,19.0,5
+Qatar Grand Prix (Lusail) - 2024-11-30,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lando NORRIS,4,McLaren,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lando NORRIS,4,McLaren,3,HARD,37.0,37.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lando NORRIS,4,McLaren,4,HARD,38.0,45.0,8.0,2
+Qatar Grand Prix (Lusail) - 2024-11-30,Lando NORRIS,4,McLaren,5,HARD,46.0,57.0,12.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,19.0,19.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,34.0,34.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lewis HAMILTON,44,Mercedes,2,HARD,35.0,35.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lewis HAMILTON,44,Mercedes,3,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lewis HAMILTON,44,Mercedes,4,HARD,37.0,47.0,11.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Lewis HAMILTON,44,Mercedes,5,HARD,48.0,57.0,10.0,13
+Qatar Grand Prix (Lusail) - 2024-11-30,Liam LAWSON,30,RB,1,MEDIUM,1.0,19.0,19.0,7
+Qatar Grand Prix (Lusail) - 2024-11-30,Liam LAWSON,30,RB,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Liam LAWSON,30,RB,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Liam LAWSON,30,RB,3,HARD,37.0,37.0,1.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Liam LAWSON,30,RB,4,HARD,38.0,40.0,3.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Liam LAWSON,30,RB,5,SOFT,41.0,57.0,17.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,19.0,19.0,8
+Qatar Grand Prix (Lusail) - 2024-11-30,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Max VERSTAPPEN,1,Red Bull Racing,3,HARD,37.0,37.0,1.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Max VERSTAPPEN,1,Red Bull Racing,4,HARD,38.0,57.0,20.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,19.0,19.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Nico HULKENBERG,27,Haas F1 Team,1,HARD,1.0,1.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Nico HULKENBERG,27,Haas F1 Team,2,HARD,2.0,31.0,30.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Nico HULKENBERG,27,Haas F1 Team,3,MEDIUM,32.0,36.0,5.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Nico HULKENBERG,27,Haas F1 Team,4,MEDIUM,37.0,37.0,1.0,5
+Qatar Grand Prix (Lusail) - 2024-11-30,Nico HULKENBERG,27,Haas F1 Team,5,MEDIUM,38.0,39.0,2.0,6
+Qatar Grand Prix (Lusail) - 2024-11-30,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,19.0,19.0,5
+Qatar Grand Prix (Lusail) - 2024-11-30,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,34.0,34.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Oscar PIASTRI,81,McLaren,2,HARD,35.0,36.0,2.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Oscar PIASTRI,81,McLaren,3,HARD,37.0,37.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Oscar PIASTRI,81,McLaren,4,HARD,38.0,57.0,20.0,3
+Qatar Grand Prix (Lusail) - 2024-11-30,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,19.0,19.0,7
+Qatar Grand Prix (Lusail) - 2024-11-30,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Pierre GASLY,10,Alpine,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Pierre GASLY,10,Alpine,3,HARD,37.0,37.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Pierre GASLY,10,Alpine,4,HARD,38.0,57.0,20.0,2
+Qatar Grand Prix (Lusail) - 2024-11-30,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,14.0,14.0,11
+Qatar Grand Prix (Lusail) - 2024-11-30,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,15.0,19.0,5.0,21
+Qatar Grand Prix (Lusail) - 2024-11-30,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Sergio PEREZ,11,Red Bull Racing,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Sergio PEREZ,11,Red Bull Racing,3,HARD,37.0,37.0,1.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Sergio PEREZ,11,Red Bull Racing,4,HARD,38.0,38.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,19.0,19.0,12
+Qatar Grand Prix (Lusail) - 2024-11-30,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,24.0,24.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Valtteri BOTTAS,77,Kick Sauber,2,HARD,25.0,35.0,11.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Valtteri BOTTAS,77,Kick Sauber,3,MEDIUM,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Valtteri BOTTAS,77,Kick Sauber,4,MEDIUM,37.0,57.0,21.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,19.0,19.0,7
+Qatar Grand Prix (Lusail) - 2024-11-30,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Yuki TSUNODA,22,RB,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,Yuki TSUNODA,22,RB,3,HARD,37.0,37.0,1.0,1
+Qatar Grand Prix (Lusail) - 2024-11-30,Yuki TSUNODA,22,RB,4,HARD,38.0,40.0,3.0,2
+Qatar Grand Prix (Lusail) - 2024-11-30,Yuki TSUNODA,22,RB,5,SOFT,41.0,57.0,17.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,ZHOU Guanyu,24,Kick Sauber,1,SOFT,1.0,10.0,10.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,ZHOU Guanyu,24,Kick Sauber,2,MEDIUM,11.0,19.0,9.0,8
+Qatar Grand Prix (Lusail) - 2024-11-30,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,35.0,35.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,ZHOU Guanyu,24,Kick Sauber,2,HARD,36.0,36.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,ZHOU Guanyu,24,Kick Sauber,3,HARD,37.0,37.0,1.0,0
+Qatar Grand Prix (Lusail) - 2024-11-30,ZHOU Guanyu,24,Kick Sauber,4,HARD,38.0,57.0,20.0,0

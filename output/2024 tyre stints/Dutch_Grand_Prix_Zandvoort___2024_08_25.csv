@@ -1,0 +1,47 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Alexander ALBON,23,Williams,1,MEDIUM,1.0,12.0,12.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Alexander ALBON,23,Williams,2,HARD,13.0,54.0,42.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Alexander ALBON,23,Williams,3,MEDIUM,55.0,71.0,17.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,30.0,30.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Carlos SAINZ,55,Ferrari,2,HARD,31.0,72.0,42.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,24.0,24.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Charles LECLERC,16,Ferrari,2,HARD,25.0,72.0,48.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Daniel RICCIARDO,3,RB,1,MEDIUM,1.0,29.0,29.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Daniel RICCIARDO,3,RB,2,HARD,30.0,71.0,42.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Esteban OCON,31,Alpine,1,MEDIUM,1.0,30.0,30.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Esteban OCON,31,Alpine,2,HARD,31.0,71.0,41.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,31.0,31.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Fernando ALONSO,14,Aston Martin,2,HARD,32.0,71.0,40.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,25.0,25.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,George RUSSELL,63,Mercedes,2,HARD,26.0,54.0,29.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,George RUSSELL,63,Mercedes,3,SOFT,55.0,72.0,18.0,3
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Kevin MAGNUSSEN,20,Haas F1 Team,1,HARD,1.0,40.0,40.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Kevin MAGNUSSEN,20,Haas F1 Team,2,MEDIUM,41.0,71.0,31.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,30.0,30.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Lance STROLL,18,Aston Martin,2,HARD,31.0,71.0,41.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,28.0,28.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Lando NORRIS,4,McLaren,2,HARD,29.0,72.0,44.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Lewis HAMILTON,44,Mercedes,1,SOFT,1.0,23.0,23.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Lewis HAMILTON,44,Mercedes,2,HARD,24.0,48.0,25.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Lewis HAMILTON,44,Mercedes,3,SOFT,49.0,72.0,24.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Logan SARGEANT,2,Williams,1,MEDIUM,1.0,22.0,22.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Logan SARGEANT,2,Williams,2,HARD,23.0,71.0,49.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,27.0,27.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,28.0,72.0,45.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,14.0,14.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Nico HULKENBERG,27,Haas F1 Team,2,HARD,15.0,71.0,57.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,33.0,33.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Oscar PIASTRI,81,McLaren,2,HARD,34.0,72.0,39.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,32.0,32.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Pierre GASLY,10,Alpine,2,HARD,33.0,71.0,39.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,29.0,29.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Sergio PEREZ,11,Red Bull Racing,2,HARD,30.0,72.0,43.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Valtteri BOTTAS,77,Kick Sauber,1,SOFT,1.0,15.0,15.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Valtteri BOTTAS,77,Kick Sauber,2,HARD,16.0,43.0,28.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Valtteri BOTTAS,77,Kick Sauber,3,MEDIUM,44.0,70.0,27.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Yuki TSUNODA,22,RB,1,SOFT,1.0,14.0,14.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Yuki TSUNODA,22,RB,2,MEDIUM,15.0,32.0,18.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,Yuki TSUNODA,22,RB,3,HARD,33.0,71.0,39.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,18.0,18.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,ZHOU Guanyu,24,Kick Sauber,2,HARD,19.0,51.0,33.0,0
+Dutch Grand Prix (Zandvoort) - 2024-08-25,ZHOU Guanyu,24,Kick Sauber,3,SOFT,52.0,70.0,19.0,0

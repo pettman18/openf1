@@ -1,0 +1,60 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Alexander ALBON,23,Williams,1,MEDIUM,1.0,9.0,9.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Alexander ALBON,23,Williams,2,HARD,10.0,25.0,16.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,10.0,10.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Carlos SAINZ,55,Ferrari,2,HARD,11.0,28.0,18.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Carlos SAINZ,55,Ferrari,3,HARD,29.0,50.0,22.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,9.0,9.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Charles LECLERC,16,Ferrari,2,HARD,10.0,31.0,22.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Charles LECLERC,16,Ferrari,3,HARD,32.0,50.0,19.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Esteban OCON,31,Alpine,1,MEDIUM,1.0,11.0,11.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Esteban OCON,31,Alpine,2,MEDIUM,12.0,12.0,1.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Esteban OCON,31,Alpine,3,HARD,13.0,45.0,33.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Esteban OCON,31,Alpine,4,SOFT,46.0,49.0,4.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Fernando ALONSO,14,Aston Martin,1,SOFT,1.0,4.0,4.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Fernando ALONSO,14,Aston Martin,2,HARD,5.0,24.0,20.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Fernando ALONSO,14,Aston Martin,3,HARD,25.0,50.0,26.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Franco COLAPINTO,43,Williams,1,HARD,1.0,16.0,16.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Franco COLAPINTO,43,Williams,2,MEDIUM,17.0,26.0,10.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Franco COLAPINTO,43,Williams,3,HARD,27.0,50.0,24.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,12.0,12.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,George RUSSELL,63,Mercedes,2,HARD,13.0,32.0,20.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,George RUSSELL,63,Mercedes,3,HARD,33.0,50.0,18.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,17.0,17.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,18.0,50.0,33.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,9.0,9.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lance STROLL,18,Aston Martin,2,HARD,10.0,28.0,19.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lance STROLL,18,Aston Martin,3,HARD,29.0,50.0,22.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,9.0,9.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lando NORRIS,4,McLaren,2,HARD,10.0,30.0,21.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lando NORRIS,4,McLaren,3,HARD,31.0,48.0,18.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lando NORRIS,4,McLaren,4,SOFT,49.0,50.0,2.0,4
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,13.0,13.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lewis HAMILTON,44,Mercedes,2,HARD,14.0,27.0,14.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Lewis HAMILTON,44,Mercedes,3,HARD,28.0,50.0,23.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Liam LAWSON,30,RB,1,MEDIUM,1.0,11.0,11.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Liam LAWSON,30,RB,2,HARD,12.0,38.0,27.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Liam LAWSON,30,RB,3,HARD,39.0,50.0,12.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,11.0,11.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,12.0,27.0,16.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Max VERSTAPPEN,1,Red Bull Racing,3,HARD,28.0,50.0,23.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,14.0,14.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Nico HULKENBERG,27,Haas F1 Team,2,HARD,15.0,33.0,19.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Nico HULKENBERG,27,Haas F1 Team,3,HARD,34.0,50.0,17.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,10.0,10.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Oscar PIASTRI,81,McLaren,2,HARD,11.0,25.0,15.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Oscar PIASTRI,81,McLaren,3,HARD,26.0,50.0,25.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,10.0,10.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Pierre GASLY,10,Alpine,2,HARD,11.0,15.0,5.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Sergio PEREZ,11,Red Bull Racing,1,HARD,1.0,17.0,17.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,18.0,32.0,15.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Sergio PEREZ,11,Red Bull Racing,3,HARD,33.0,50.0,18.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Valtteri BOTTAS,77,Kick Sauber,1,HARD,1.0,17.0,17.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Valtteri BOTTAS,77,Kick Sauber,2,MEDIUM,18.0,35.0,18.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Valtteri BOTTAS,77,Kick Sauber,3,HARD,36.0,49.0,14.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,10.0,10.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Yuki TSUNODA,22,RB,2,HARD,11.0,29.0,19.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,Yuki TSUNODA,22,RB,3,HARD,30.0,50.0,21.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,11.0,11.0,1
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,ZHOU Guanyu,24,Kick Sauber,2,HARD,12.0,34.0,23.0,0
+Las Vegas Grand Prix (Las Vegas) - 2024-11-24,ZHOU Guanyu,24,Kick Sauber,3,HARD,35.0,50.0,16.0,0

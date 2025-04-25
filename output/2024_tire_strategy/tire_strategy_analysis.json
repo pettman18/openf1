@@ -1,0 +1,443 @@
+{
+    "strategy": {
+        "Abu Dhabi Grand Prix": "MEDIUM",
+        "Australian Grand Prix": "MEDIUM",
+        "Austrian Grand Prix": "MEDIUM",
+        "Azerbaijan Grand Prix": "MEDIUM",
+        "Bahrain Grand Prix": "SOFT",
+        "Belgian Grand Prix": "MEDIUM",
+        "British Grand Prix": "MEDIUM",
+        "Canadian Grand Prix": "INTERMEDIATE",
+        "Chinese Grand Prix": "MEDIUM",
+        "Dutch Grand Prix": "MEDIUM",
+        "Emilia Romagna Grand Prix": "MEDIUM",
+        "Hungarian Grand Prix": "MEDIUM",
+        "Italian Grand Prix": "MEDIUM",
+        "Japanese Grand Prix": "MEDIUM",
+        "Las Vegas Grand Prix": "MEDIUM",
+        "Mexico City Grand Prix": "MEDIUM",
+        "Miami Grand Prix": "MEDIUM",
+        "Monaco Grand Prix": "HARD",
+        "Qatar Grand Prix": "MEDIUM",
+        "Saudi Arabian Grand Prix": "MEDIUM",
+        "Singapore Grand Prix": "MEDIUM",
+        "Spanish Grand Prix": "SOFT",
+        "S\u00e3o Paulo Grand Prix": "MEDIUM",
+        "United States Grand Prix": "MEDIUM"
+    },
+    "percentiles": {
+        "Abu Dhabi Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 25.0,
+                "80th_percentile_laps": 35.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 13.0,
+                "80th_percentile_laps": 25.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 2.0,
+                "80th_percentile_laps": 25.0
+            }
+        ],
+        "Australian Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 22.0,
+                "80th_percentile_laps": 28.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 9.0,
+                "80th_percentile_laps": 16.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 6.0,
+                "80th_percentile_laps": 7.0
+            }
+        ],
+        "Austrian Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 27.0,
+                "80th_percentile_laps": 31.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 21.0,
+                "80th_percentile_laps": 23.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 2.0,
+                "80th_percentile_laps": 7.0
+            }
+        ],
+        "Azerbaijan Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 36.0,
+                "80th_percentile_laps": 40.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 12.0,
+                "80th_percentile_laps": 16.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 2.0
+            }
+        ],
+        "Bahrain Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 20.0,
+                "80th_percentile_laps": 24.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 12.0,
+                "80th_percentile_laps": 15.0
+            }
+        ],
+        "Belgian Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 18.0,
+                "80th_percentile_laps": 24.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 10.0,
+                "80th_percentile_laps": 15.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 8.0
+            }
+        ],
+        "British Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 14.0,
+                "80th_percentile_laps": 19.0
+            },
+            {
+                "compound": "INTERMEDIATE",
+                "40th_percentile_laps": 11.0,
+                "80th_percentile_laps": 12.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 26.0,
+                "80th_percentile_laps": 27.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 13.0,
+                "80th_percentile_laps": 14.0
+            }
+        ],
+        "Canadian Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 17.0,
+                "80th_percentile_laps": 27.0
+            },
+            {
+                "compound": "INTERMEDIATE",
+                "40th_percentile_laps": 20.0,
+                "80th_percentile_laps": 25.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 17.0,
+                "80th_percentile_laps": 27.0
+            },
+            {
+                "compound": "WET",
+                "40th_percentile_laps": 7.0,
+                "80th_percentile_laps": 12.0
+            }
+        ],
+        "Chinese Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 15.0,
+                "80th_percentile_laps": 33.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 14.0,
+                "80th_percentile_laps": 19.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 9.0,
+                "80th_percentile_laps": 19.0
+            }
+        ],
+        "Dutch Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 40.0,
+                "80th_percentile_laps": 44.2
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 26.200000000000003,
+                "80th_percentile_laps": 30.200000000000003
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 18.0,
+                "80th_percentile_laps": 23.0
+            }
+        ],
+        "Emilia Romagna Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 34.800000000000004,
+                "80th_percentile_laps": 42.60000000000002
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 21.0,
+                "80th_percentile_laps": 29.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 7.0,
+                "80th_percentile_laps": 8.0
+            }
+        ],
+        "Hungarian Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 28.0,
+                "80th_percentile_laps": 33.2
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 18.0,
+                "80th_percentile_laps": 25.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 6.0,
+                "80th_percentile_laps": 7.0
+            }
+        ],
+        "Italian Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 20.6,
+                "80th_percentile_laps": 34.400000000000006
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 14.0,
+                "80th_percentile_laps": 18.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 2.0,
+                "80th_percentile_laps": 2.0
+            }
+        ],
+        "Japanese Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 17.0,
+                "80th_percentile_laps": 27.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 7.0,
+                "80th_percentile_laps": 18.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 11.0
+            }
+        ],
+        "Las Vegas Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 18.0,
+                "80th_percentile_laps": 23.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 10.0,
+                "80th_percentile_laps": 13.200000000000003
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 4.0,
+                "80th_percentile_laps": 4.0
+            }
+        ],
+        "Mexico City Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 41.0,
+                "80th_percentile_laps": 45.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 26.0,
+                "80th_percentile_laps": 31.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 2.0,
+                "80th_percentile_laps": 5.0
+            }
+        ],
+        "Miami Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 22.0,
+                "80th_percentile_laps": 35.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 22.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 17.0
+            }
+        ],
+        "Monaco Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 7.0,
+                "80th_percentile_laps": 77.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 52.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 7.0,
+                "80th_percentile_laps": 29.0
+            }
+        ],
+        "Qatar Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 12.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 19.0,
+                "80th_percentile_laps": 35.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 1.0,
+                "80th_percentile_laps": 17.0
+            }
+        ],
+        "Saudi Arabian Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 42.6,
+                "80th_percentile_laps": 43.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 7.0,
+                "80th_percentile_laps": 33.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 8.0,
+                "80th_percentile_laps": 14.0
+            }
+        ],
+        "Singapore Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 32.0,
+                "80th_percentile_laps": 35.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 28.0,
+                "80th_percentile_laps": 36.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 10.0,
+                "80th_percentile_laps": 24.0
+            }
+        ],
+        "Spanish Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 28.0,
+                "80th_percentile_laps": 30.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 21.0,
+                "80th_percentile_laps": 26.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 16.0,
+                "80th_percentile_laps": 21.200000000000003
+            }
+        ],
+        "S\u00e3o Paulo Grand Prix": [
+            {
+                "compound": "INTERMEDIATE",
+                "40th_percentile_laps": 27.0,
+                "80th_percentile_laps": 37.0
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 24.0,
+                "80th_percentile_laps": 24.0
+            },
+            {
+                "compound": "WET",
+                "40th_percentile_laps": 3.6000000000000014,
+                "80th_percentile_laps": 4.200000000000003
+            }
+        ],
+        "United States Grand Prix": [
+            {
+                "compound": "HARD",
+                "40th_percentile_laps": 28.200000000000003,
+                "80th_percentile_laps": 37.2
+            },
+            {
+                "compound": "MEDIUM",
+                "40th_percentile_laps": 19.0,
+                "80th_percentile_laps": 26.0
+            },
+            {
+                "compound": "SOFT",
+                "40th_percentile_laps": 4.0,
+                "80th_percentile_laps": 4.0
+            }
+        ]
+    }
+}

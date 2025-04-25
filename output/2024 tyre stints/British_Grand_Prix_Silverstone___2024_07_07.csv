@@ -1,0 +1,66 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+British Grand Prix (Silverstone) - 2024-07-07,Alexander ALBON,23,Williams,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Alexander ALBON,23,Williams,2,INTERMEDIATE,28.0,38.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Alexander ALBON,23,Williams,3,MEDIUM,39.0,52.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,26.0,26.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Carlos SAINZ,55,Ferrari,2,INTERMEDIATE,27.0,39.0,13.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Carlos SAINZ,55,Ferrari,3,HARD,40.0,50.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Carlos SAINZ,55,Ferrari,4,SOFT,51.0,52.0,2.0,3
+British Grand Prix (Silverstone) - 2024-07-07,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,19.0,19.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Charles LECLERC,16,Ferrari,2,INTERMEDIATE,20.0,27.0,8.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Charles LECLERC,16,Ferrari,3,INTERMEDIATE,28.0,37.0,10.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Charles LECLERC,16,Ferrari,4,SOFT,38.0,51.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Daniel RICCIARDO,3,RB,1,MEDIUM,1.0,26.0,26.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Daniel RICCIARDO,3,RB,2,INTERMEDIATE,27.0,37.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Daniel RICCIARDO,3,RB,3,SOFT,38.0,51.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Esteban OCON,31,Alpine,1,SOFT,1.0,19.0,19.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Esteban OCON,31,Alpine,2,INTERMEDIATE,20.0,21.0,2.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Esteban OCON,31,Alpine,3,MEDIUM,22.0,26.0,5.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Esteban OCON,31,Alpine,4,INTERMEDIATE,27.0,38.0,12.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Esteban OCON,31,Alpine,5,MEDIUM,39.0,50.0,12.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Fernando ALONSO,14,Aston Martin,2,INTERMEDIATE,28.0,38.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Fernando ALONSO,14,Aston Martin,3,MEDIUM,39.0,52.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,George RUSSELL,63,Mercedes,2,INTERMEDIATE,28.0,33.0,6.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Kevin MAGNUSSEN,20,Haas F1 Team,2,INTERMEDIATE,28.0,37.0,10.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Kevin MAGNUSSEN,20,Haas F1 Team,3,SOFT,38.0,52.0,15.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,26.0,26.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lance STROLL,18,Aston Martin,2,INTERMEDIATE,27.0,39.0,13.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lance STROLL,18,Aston Martin,3,MEDIUM,40.0,52.0,13.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lando NORRIS,4,McLaren,2,INTERMEDIATE,28.0,39.0,12.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lando NORRIS,4,McLaren,3,SOFT,40.0,52.0,13.0,2
+British Grand Prix (Silverstone) - 2024-07-07,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lewis HAMILTON,44,Mercedes,2,INTERMEDIATE,28.0,38.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Lewis HAMILTON,44,Mercedes,3,SOFT,39.0,52.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Logan SARGEANT,2,Williams,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Logan SARGEANT,2,Williams,2,INTERMEDIATE,28.0,38.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Logan SARGEANT,2,Williams,3,SOFT,39.0,52.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,26.0,26.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Max VERSTAPPEN,1,Red Bull Racing,2,INTERMEDIATE,27.0,38.0,12.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Max VERSTAPPEN,1,Red Bull Racing,3,HARD,39.0,52.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,26.0,26.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Nico HULKENBERG,27,Haas F1 Team,2,INTERMEDIATE,27.0,39.0,13.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Nico HULKENBERG,27,Haas F1 Team,3,SOFT,40.0,52.0,13.0,3
+British Grand Prix (Silverstone) - 2024-07-07,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,28.0,28.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Oscar PIASTRI,81,McLaren,2,INTERMEDIATE,29.0,38.0,10.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Oscar PIASTRI,81,McLaren,3,MEDIUM,39.0,52.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Pierre GASLY,10,Alpine,1,MEDIUM,N/A,N/A,N/A,0
+British Grand Prix (Silverstone) - 2024-07-07,Sergio PEREZ,11,Red Bull Racing,1,HARD,1.0,19.0,19.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Sergio PEREZ,11,Red Bull Racing,2,INTERMEDIATE,20.0,28.0,9.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Sergio PEREZ,11,Red Bull Racing,3,INTERMEDIATE,29.0,37.0,9.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Sergio PEREZ,11,Red Bull Racing,4,MEDIUM,38.0,47.0,10.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Sergio PEREZ,11,Red Bull Racing,5,SOFT,48.0,50.0,3.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,26.0,26.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Valtteri BOTTAS,77,Kick Sauber,2,INTERMEDIATE,27.0,37.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Valtteri BOTTAS,77,Kick Sauber,3,SOFT,38.0,51.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,27.0,27.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Yuki TSUNODA,22,RB,2,INTERMEDIATE,28.0,38.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,Yuki TSUNODA,22,RB,3,SOFT,39.0,52.0,14.0,0
+British Grand Prix (Silverstone) - 2024-07-07,ZHOU Guanyu,24,Kick Sauber,1,SOFT,1.0,12.0,12.0,0
+British Grand Prix (Silverstone) - 2024-07-07,ZHOU Guanyu,24,Kick Sauber,2,MEDIUM,13.0,19.0,7.0,0
+British Grand Prix (Silverstone) - 2024-07-07,ZHOU Guanyu,24,Kick Sauber,3,INTERMEDIATE,20.0,26.0,7.0,0
+British Grand Prix (Silverstone) - 2024-07-07,ZHOU Guanyu,24,Kick Sauber,4,INTERMEDIATE,27.0,37.0,11.0,0
+British Grand Prix (Silverstone) - 2024-07-07,ZHOU Guanyu,24,Kick Sauber,5,SOFT,38.0,50.0,13.0,1

@@ -1,0 +1,75 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Japanese Grand Prix (Suzuka) - 2024-04-07,Alexander ALBON,23,Williams,1,SOFT,N/A,N/A,N/A,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Carlos SAINZ,55,Ferrari,2,MEDIUM,2.0,15.0,14.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Carlos SAINZ,55,Ferrari,3,MEDIUM,16.0,36.0,21.0,1
+Japanese Grand Prix (Suzuka) - 2024-04-07,Carlos SAINZ,55,Ferrari,4,HARD,37.0,53.0,17.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Charles LECLERC,16,Ferrari,2,MEDIUM,2.0,26.0,25.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Charles LECLERC,16,Ferrari,3,HARD,27.0,53.0,27.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Daniel RICCIARDO,3,RB,1,MEDIUM,N/A,N/A,N/A,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Esteban OCON,31,Alpine,1,SOFT,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Esteban OCON,31,Alpine,2,HARD,2.0,19.0,18.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Esteban OCON,31,Alpine,3,HARD,20.0,33.0,14.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Esteban OCON,31,Alpine,4,MEDIUM,34.0,52.0,19.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Fernando ALONSO,14,Aston Martin,1,SOFT,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Fernando ALONSO,14,Aston Martin,2,SOFT,2.0,13.0,12.0,1
+Japanese Grand Prix (Suzuka) - 2024-04-07,Fernando ALONSO,14,Aston Martin,3,MEDIUM,14.0,33.0,20.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Fernando ALONSO,14,Aston Martin,4,HARD,34.0,53.0,20.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,George RUSSELL,63,Mercedes,2,HARD,2.0,22.0,21.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,George RUSSELL,63,Mercedes,3,HARD,23.0,37.0,15.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,George RUSSELL,63,Mercedes,4,MEDIUM,38.0,53.0,16.0,1
+Japanese Grand Prix (Suzuka) - 2024-04-07,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Kevin MAGNUSSEN,20,Haas F1 Team,2,MEDIUM,2.0,22.0,21.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Kevin MAGNUSSEN,20,Haas F1 Team,3,HARD,23.0,52.0,30.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lance STROLL,18,Aston Martin,1,SOFT,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lance STROLL,18,Aston Martin,2,SOFT,2.0,12.0,11.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lance STROLL,18,Aston Martin,3,MEDIUM,13.0,22.0,10.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lance STROLL,18,Aston Martin,4,HARD,23.0,34.0,12.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lance STROLL,18,Aston Martin,5,SOFT,35.0,52.0,18.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lando NORRIS,4,McLaren,2,MEDIUM,2.0,11.0,10.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lando NORRIS,4,McLaren,3,HARD,12.0,26.0,15.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lando NORRIS,4,McLaren,4,HARD,27.0,53.0,27.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lewis HAMILTON,44,Mercedes,2,HARD,2.0,23.0,22.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lewis HAMILTON,44,Mercedes,3,HARD,24.0,39.0,16.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Lewis HAMILTON,44,Mercedes,4,MEDIUM,40.0,53.0,14.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Logan SARGEANT,2,Williams,1,SOFT,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Logan SARGEANT,2,Williams,2,HARD,2.0,22.0,21.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Logan SARGEANT,2,Williams,3,HARD,23.0,34.0,12.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Logan SARGEANT,2,Williams,4,MEDIUM,35.0,41.0,7.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Logan SARGEANT,2,Williams,5,SOFT,42.0,52.0,11.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Max VERSTAPPEN,1,Red Bull Racing,2,MEDIUM,2.0,16.0,15.0,1
+Japanese Grand Prix (Suzuka) - 2024-04-07,Max VERSTAPPEN,1,Red Bull Racing,3,MEDIUM,17.0,34.0,18.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Max VERSTAPPEN,1,Red Bull Racing,4,HARD,35.0,53.0,19.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Nico HULKENBERG,27,Haas F1 Team,1,SOFT,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Nico HULKENBERG,27,Haas F1 Team,2,SOFT,2.0,5.0,4.0,1
+Japanese Grand Prix (Suzuka) - 2024-04-07,Nico HULKENBERG,27,Haas F1 Team,3,HARD,6.0,33.0,28.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Nico HULKENBERG,27,Haas F1 Team,4,HARD,34.0,52.0,19.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Oscar PIASTRI,81,McLaren,2,MEDIUM,2.0,12.0,11.0,1
+Japanese Grand Prix (Suzuka) - 2024-04-07,Oscar PIASTRI,81,McLaren,3,HARD,13.0,32.0,20.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Oscar PIASTRI,81,McLaren,4,HARD,33.0,53.0,21.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Pierre GASLY,10,Alpine,1,SOFT,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Pierre GASLY,10,Alpine,2,HARD,2.0,16.0,15.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Pierre GASLY,10,Alpine,3,MEDIUM,17.0,32.0,16.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Pierre GASLY,10,Alpine,4,HARD,33.0,52.0,20.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,2.0,15.0,14.0,1
+Japanese Grand Prix (Suzuka) - 2024-04-07,Sergio PEREZ,11,Red Bull Racing,3,MEDIUM,16.0,33.0,18.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Sergio PEREZ,11,Red Bull Racing,4,HARD,34.0,53.0,20.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Valtteri BOTTAS,77,Kick Sauber,1,SOFT,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Valtteri BOTTAS,77,Kick Sauber,2,SOFT,2.0,6.0,5.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Valtteri BOTTAS,77,Kick Sauber,3,HARD,7.0,22.0,16.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Valtteri BOTTAS,77,Kick Sauber,4,HARD,23.0,52.0,30.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Yuki TSUNODA,22,RB,2,SOFT,2.0,7.0,6.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Yuki TSUNODA,22,RB,3,HARD,8.0,22.0,15.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,Yuki TSUNODA,22,RB,4,HARD,23.0,52.0,30.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,ZHOU Guanyu,24,Kick Sauber,1,MEDIUM,1.0,1.0,1.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,ZHOU Guanyu,24,Kick Sauber,2,SOFT,2.0,7.0,6.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,ZHOU Guanyu,24,Kick Sauber,3,HARD,8.0,11.0,4.0,0
+Japanese Grand Prix (Suzuka) - 2024-04-07,ZHOU Guanyu,24,Kick Sauber,4,HARD,12.0,12.0,1.0,4

@@ -1,0 +1,59 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Alexander ALBON,23,Williams,1,MEDIUM,1.0,8.0,8.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Alexander ALBON,23,Williams,2,MEDIUM,9.0,23.0,15.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Alexander ALBON,23,Williams,3,HARD,24.0,44.0,21.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Carlos SAINZ,55,Ferrari,1,HARD,1.0,20.0,20.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Carlos SAINZ,55,Ferrari,2,MEDIUM,21.0,28.0,8.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Carlos SAINZ,55,Ferrari,3,HARD,29.0,44.0,16.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,12.0,12.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Charles LECLERC,16,Ferrari,2,HARD,13.0,25.0,13.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Charles LECLERC,16,Ferrari,3,HARD,26.0,44.0,19.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Daniel RICCIARDO,3,RB,1,SOFT,1.0,8.0,8.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Daniel RICCIARDO,3,RB,2,MEDIUM,9.0,21.0,13.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Daniel RICCIARDO,3,RB,3,HARD,22.0,44.0,23.0,1
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Daniel RICCIARDO,3,RB,4,SOFT,45.0,45.0,1.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Esteban OCON,31,Alpine,1,MEDIUM,1.0,12.0,12.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Esteban OCON,31,Alpine,2,HARD,13.0,30.0,18.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Esteban OCON,31,Alpine,3,HARD,31.0,44.0,14.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Fernando ALONSO,14,Aston Martin,1,MEDIUM,1.0,13.0,13.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Fernando ALONSO,14,Aston Martin,2,HARD,14.0,44.0,31.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Fernando ALONSO,14,Aston Martin,3,MEDIUM,45.0,45.0,1.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,10.0,10.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,George RUSSELL,63,Mercedes,2,HARD,11.0,44.0,34.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,17.0,17.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,18.0,44.0,27.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,12.0,12.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lance STROLL,18,Aston Martin,2,HARD,13.0,44.0,32.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lance STROLL,18,Aston Martin,3,MEDIUM,45.0,45.0,1.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,15.0,15.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lando NORRIS,4,McLaren,2,HARD,16.0,29.0,14.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lando NORRIS,4,McLaren,3,HARD,30.0,44.0,15.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,11.0,11.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lewis HAMILTON,44,Mercedes,2,HARD,12.0,26.0,15.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Lewis HAMILTON,44,Mercedes,3,HARD,27.0,44.0,18.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Logan SARGEANT,2,Williams,1,MEDIUM,1.0,8.0,8.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Logan SARGEANT,2,Williams,2,MEDIUM,9.0,24.0,16.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Logan SARGEANT,2,Williams,3,HARD,25.0,44.0,20.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,10.0,10.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,11.0,28.0,18.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Max VERSTAPPEN,1,Red Bull Racing,3,MEDIUM,29.0,44.0,16.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,7.0,7.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Nico HULKENBERG,27,Haas F1 Team,2,HARD,8.0,20.0,13.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Nico HULKENBERG,27,Haas F1 Team,3,MEDIUM,21.0,44.0,24.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,11.0,11.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Oscar PIASTRI,81,McLaren,2,HARD,12.0,30.0,19.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Oscar PIASTRI,81,McLaren,3,HARD,31.0,44.0,14.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Pierre GASLY,10,Alpine,1,MEDIUM,1.0,9.0,9.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Pierre GASLY,10,Alpine,2,HARD,10.0,28.0,19.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Pierre GASLY,10,Alpine,3,HARD,29.0,44.0,16.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Sergio PEREZ,11,Red Bull Racing,1,MEDIUM,1.0,11.0,11.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,12.0,21.0,10.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Sergio PEREZ,11,Red Bull Racing,3,HARD,22.0,42.0,21.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Sergio PEREZ,11,Red Bull Racing,4,SOFT,43.0,44.0,2.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,11.0,11.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Valtteri BOTTAS,77,Kick Sauber,2,HARD,12.0,35.0,24.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Valtteri BOTTAS,77,Kick Sauber,3,MEDIUM,36.0,44.0,9.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,15.0,15.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Yuki TSUNODA,22,RB,2,HARD,16.0,44.0,29.0,1
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,Yuki TSUNODA,22,RB,3,SOFT,45.0,45.0,1.0,0
+Belgian Grand Prix (Spa-Francorchamps) - 2024-07-28,ZHOU Guanyu,24,Kick Sauber,1,HARD,1.0,5.0,5.0,0

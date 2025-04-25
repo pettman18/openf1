@@ -1,0 +1,48 @@
+race,driver_name,driver_number,team_name,stint_number,compound,lap_start,lap_end,laps_on_tire,tyre_age_at_start
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Alexander ALBON,23,Williams,1,MEDIUM,1.0,8.0,8.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Alexander ALBON,23,Williams,2,HARD,9.0,9.0,1.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Alexander ALBON,23,Williams,3,MEDIUM,10.0,23.0,14.0,8
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Alexander ALBON,23,Williams,4,MEDIUM,24.0,28.0,5.0,14
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Alexander ALBON,23,Williams,5,MEDIUM,29.0,51.0,23.0,8
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Carlos SAINZ,55,Ferrari,1,MEDIUM,1.0,27.0,27.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Carlos SAINZ,55,Ferrari,2,HARD,28.0,63.0,36.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Charles LECLERC,16,Ferrari,1,MEDIUM,1.0,25.0,25.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Charles LECLERC,16,Ferrari,2,HARD,26.0,63.0,38.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Daniel RICCIARDO,3,RB,1,MEDIUM,1.0,11.0,11.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Daniel RICCIARDO,3,RB,2,HARD,12.0,62.0,51.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Esteban OCON,31,Alpine,1,MEDIUM,1.0,25.0,25.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Esteban OCON,31,Alpine,2,HARD,26.0,62.0,37.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Fernando ALONSO,14,Aston Martin,1,SOFT,1.0,7.0,7.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Fernando ALONSO,14,Aston Martin,2,HARD,8.0,40.0,33.0,1
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Fernando ALONSO,14,Aston Martin,3,MEDIUM,41.0,59.0,19.0,1
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Fernando ALONSO,14,Aston Martin,4,SOFT,60.0,62.0,3.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,George RUSSELL,63,Mercedes,1,MEDIUM,1.0,21.0,21.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,George RUSSELL,63,Mercedes,2,HARD,22.0,52.0,31.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,George RUSSELL,63,Mercedes,3,MEDIUM,53.0,63.0,11.0,2
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Kevin MAGNUSSEN,20,Haas F1 Team,1,MEDIUM,1.0,37.0,37.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Kevin MAGNUSSEN,20,Haas F1 Team,2,HARD,38.0,62.0,25.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Lance STROLL,18,Aston Martin,1,MEDIUM,1.0,37.0,37.0,1
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Lance STROLL,18,Aston Martin,2,HARD,38.0,63.0,26.0,1
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Lando NORRIS,4,McLaren,1,MEDIUM,1.0,22.0,22.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Lando NORRIS,4,McLaren,2,HARD,23.0,63.0,41.0,1
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Lewis HAMILTON,44,Mercedes,1,MEDIUM,1.0,27.0,27.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Lewis HAMILTON,44,Mercedes,2,HARD,28.0,63.0,36.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Logan SARGEANT,2,Williams,1,HARD,1.0,31.0,31.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Logan SARGEANT,2,Williams,2,MEDIUM,32.0,62.0,31.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Max VERSTAPPEN,1,Red Bull Racing,1,MEDIUM,1.0,24.0,24.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Max VERSTAPPEN,1,Red Bull Racing,2,HARD,25.0,63.0,39.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Nico HULKENBERG,27,Haas F1 Team,1,MEDIUM,1.0,13.0,13.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Nico HULKENBERG,27,Haas F1 Team,2,HARD,14.0,62.0,49.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Oscar PIASTRI,81,McLaren,1,MEDIUM,1.0,23.0,23.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Oscar PIASTRI,81,McLaren,2,HARD,24.0,63.0,40.0,1
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Pierre GASLY,10,Alpine,1,SOFT,1.0,8.0,8.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Pierre GASLY,10,Alpine,2,HARD,9.0,30.0,22.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Pierre GASLY,10,Alpine,3,MEDIUM,31.0,62.0,32.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Sergio PEREZ,11,Red Bull Racing,1,HARD,1.0,37.0,37.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Sergio PEREZ,11,Red Bull Racing,2,MEDIUM,38.0,63.0,26.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Valtteri BOTTAS,77,Kick Sauber,1,MEDIUM,1.0,8.0,8.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Valtteri BOTTAS,77,Kick Sauber,2,HARD,9.0,62.0,54.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Yuki TSUNODA,22,RB,1,MEDIUM,1.0,12.0,12.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,Yuki TSUNODA,22,RB,2,HARD,13.0,62.0,50.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,ZHOU Guanyu,24,Kick Sauber,1,HARD,1.0,33.0,33.0,0
+Emilia Romagna Grand Prix (Imola) - 2024-05-19,ZHOU Guanyu,24,Kick Sauber,2,MEDIUM,34.0,62.0,29.0,0
